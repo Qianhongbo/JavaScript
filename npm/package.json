@@ -1,0 +1,15 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eventloop.js",
+  "scripts": {
+    "prettier": "prettier --config .prettierrc 'NPM/**/*.js' --write"
+  },
+  "author": "Maverick",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.6.0"
+  }
+}
